@@ -1,7 +1,6 @@
 # -COLLEGE-MANAGEMENT-SYTEM-
-Using: Fuction
-<br>   
-Loop
+Using: Fuction  
+       Loop
 <br>
-Switch statement
+       Switch statement
 
